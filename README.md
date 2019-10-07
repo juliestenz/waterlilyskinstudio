@@ -1,3 +1,1 @@
-## Welcome to Water Lily Skin Studio
-
-### We are constructing the site and will be opening soon!
+![WaterLily Skin Studio](../images/WSS_banner.png){:class="img-responsive"}
